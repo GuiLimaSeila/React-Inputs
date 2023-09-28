@@ -1,0 +1,35 @@
+.popuperro {
+    background-color: #f44336;
+    color: white;
+    padding: 16px;
+    border-radius: 5px;
+    position: fixed;
+    z-index: 1;
+    min-width: 300px;
+    text-align: center;
+    bottom: 140px;
+    left: 50%;
+    max-width: 500px;
+    animation: slideIn 0.5s, fadeOut 0.5s 2.5s;
+    transform: translate(-50%, -50%);
+}
+
+.h1style {
+    color: white;
+}
+
+.popupsucesso {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    border-radius: 5px;
+    position: fixed;
+    z-index: 1;
+    min-width: 300px;
+    text-align: center;
+    bottom: 140px;
+    left: 50%;
+    max-width: 500px;
+    animation: slideIn 0.5s, fadeOut 0.5s 2.5s;
+    transform: translate(-50%, -50%);
+}

@@ -7,6 +7,7 @@ const Header = () => {
         <div className={styles.header}>
             <NavLink rota={'/'} text={'Home'} />
             <NavLink rota={'/inputs'} text={'Inputs'} />
+            <NavLink rota={'/classobject'} text={'ClassObject'} />
         </div>
     )
 }
